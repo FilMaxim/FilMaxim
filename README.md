@@ -1,8 +1,8 @@
 ### Hi and Welcome, I'm Max👋
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
-<iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO">via GIPHY</a></p>
+
 #### 📭 Contacts
 <div>
   <a href="https://www.linkedin.com/in/maxim-fil-62b622265/" target="_blank">
