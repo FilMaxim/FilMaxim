@@ -26,17 +26,18 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Frontend Developer with a background in creating responsive and user-friendly web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I’m working as a Software Engineer. I specialize in modern frontend framework. My expertise includes designing visually appealing and performance web solutions, collaborating with teams, and adhering to UI/UX best practices.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on CodeWars, read technical articles, and study English.
+  <p align="center"> <img src="https://www.codewars.com/users/fil_maxim/badges/large"/> </p>
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maxim_Fil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-fil-62b622265/)
 
 
-
+I am a Frontend Developer with a background in creating responsive and user-friendly web applications. Proficient in HTML, CSS, JavaScript and TypeScript, I specialize in modern frontend framework like React and Angular. My expertise includes designing visually appealing and performance web solutions, collaborating with teams, and adhering to UI/UX best practices. I am passionate about delivering seamless user experiences and ensuring cross-browser compatibility.
 
 <!--
 **FilMaxim/FilMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
