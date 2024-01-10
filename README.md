@@ -15,7 +15,10 @@
     <img height="32" src="https://img.shields.io/badge/Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
-
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 ### Hi and Welcome, I'm Max👋
 <!--
 **FilMaxim/FilMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
