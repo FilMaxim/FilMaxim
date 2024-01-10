@@ -13,7 +13,7 @@
     <img height="32" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.instagram.com/fil_max_/" target="_blank">
-    <img height="32" src="https://img.shields.io/badge/-@Maksym_Rudnyi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img height="32" src="https://img.shields.io/badge/-instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 <!--
