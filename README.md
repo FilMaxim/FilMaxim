@@ -1,7 +1,9 @@
 ### Hi and Welcome, I'm Max👋
 #### 📭 Contacts
 <div align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  </div>  
   <a href="https://www.linkedin.com/in/maxim-fil-62b622265/" target="_blank">
     <img height="32"  src="https://img.shields.io/badge/LinkedIn-blue?style=flat&labelColor=blue&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
