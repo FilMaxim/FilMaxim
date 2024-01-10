@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi and Welcome, I'm Max👋
 
+#### 📭 Contacts
+
+- [Linkedin](https://www.linkedin.com/in/maxim-fil-62b622265/)
+- [Telegram](https://t.me/max_fil13)
+- Gmail: fil.maxim13@gmail.com
 <!--
 **FilMaxim/FilMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
