@@ -10,8 +10,7 @@
     <img height="32" src="/img/email.png" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/maxim-fil-62b622265/" target="_blank">
-    <img height="32" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
-" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 <!--
