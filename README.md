@@ -26,12 +26,12 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Frontend Developer with a background in creating responsive and user-friendly web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a **Frontend Developer** with a background in creating responsive and user-friendly web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer. I specialize in modern frontend framework. My expertise includes designing visually appealing and performance web solutions, collaborating with teams, and adhering to UI/UX best practices.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing. I am confident that I can contribute effectively to your team and help drive your projects forward.
 
-- :zap: In my free time, I solve problems on CodeWars, read technical articles, and study English.
+- :zap: In my free time, I solve problems on ***CodeWars***, read technical articles, and study English.
   <p align="center"> <img src="https://www.codewars.com/users/fil_maxim/badges/large"/> </p>
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maxim_Fil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-fil-62b622265/)
