@@ -60,6 +60,8 @@ I am a **Frontend Developer** with a background in creating responsive and user-
 <div align="left">
   <img height="32" src="https://img.shields.io/badge/-next.js-black?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white" alt="nextjs"/>
   <img height="32" src="https://img.shields.io/badge/-GraphQl-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098" alt="GraphQl"/>
+  <img height="32" src="https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28" alt="firebase"/>
+  <img height="32" src="https://img.shields.io/badge/commercetools-00b39e?style=for-the-badge" alt="commercetools"/>
 </div>
 
 <div align="left">
