@@ -2,9 +2,17 @@
 
 #### 📭 Contacts
 
-- [Linkedin](https://www.linkedin.com/in/maxim-fil-62b622265/)
-- [Telegram](https://t.me/max_fil13)
-- Gmail: fil.maxim13@gmail.com
+<div>
+  <a href="https://t.me/max_fil13" target="_blank">
+    <img height="32" src="/img/telegram.png" alt="Telegram"/>
+  </a>
+  <a href="mailto:fil.maxim13@gmail.com">
+    <img height="32" src="/img/email.png" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maxim-fil-62b622265/" target="_blank">
+    <img height="32" src="/img/linkedin.png" alt="LinkedIn"/>
+  </a>
+</div>
 <!--
 **FilMaxim/FilMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
