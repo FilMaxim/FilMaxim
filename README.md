@@ -1,5 +1,3 @@
-### Hi and Welcome, I'm Max👋
-
 <div align="center">
   <div align="center">
     <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
@@ -17,6 +15,8 @@
     <img height="32" src="https://img.shields.io/badge/Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
+
+### Hi and Welcome, I'm Max👋
 <!--
 **FilMaxim/FilMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
