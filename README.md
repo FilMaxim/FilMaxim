@@ -89,3 +89,7 @@ I am a **Frontend Developer** with a background in creating responsive and user-
   <img height="32" src="https://img.shields.io/badge/-vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=4FC08D" alt="vue.js"/>
   <img height="32" src="https://img.shields.io/badge/-aws-232F3E?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=white" alt="aws"/>
 </div>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FilMaxim&theme=dark&background=000000)](https://git.io/streak-stats)
