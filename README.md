@@ -3,7 +3,7 @@
 #### 📭 Contacts
 
 <div>
-  <a style="border-radius: 5px;" href="https://www.linkedin.com/in/maxim-fil-62b622265/" target="_blank">
+  <a style="border-radius: 5;" href="https://www.linkedin.com/in/maxim-fil-62b622265/" target="_blank">
     <img height="32"  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:fil.maxim13@gmail.com">
