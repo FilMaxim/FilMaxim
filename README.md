@@ -39,8 +39,6 @@ I am a **Frontend Developer** with a background in creating responsive and user-
 
 - :dancing_men: I am confident that I can contribute effectively to your team and help drive your projects forward.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maxim_Fil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-fil-62b622265/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
