@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/maxim-fil-62b622265/" target="_blank">
-    <img style="border-radius: 5;" height="32"  src="https://img.shields.io/badge/LinkedIn-blue?style=flat&labelColor=blue&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img height="32"  src="https://img.shields.io/badge/LinkedIn-blue?style=flat&labelColor=blue&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:fil.maxim13@gmail.com">
     <img height="32" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red&logoColor=white" alt="Email"/>
