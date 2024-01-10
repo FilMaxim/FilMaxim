@@ -30,7 +30,7 @@ I am a **Frontend Developer** with a background in creating responsive and user-
 - :telescope: I’m working as a Software Engineer. I specialize in modern frontend framework. My expertise includes designing visually appealing and performance web solutions, collaborating with teams, and adhering to UI/UX best practices.
 
 - :seedling: Exploring Technical Content Writing.
-  I have certificates for completing courses at [The Rolling Scopes School](https://rs.school/)
+  I have certificates for completing courses at [The Rolling Scopes School](https://rs.school/):
   + <a href="https://app.rs.school/certificate/3516jdxn/" target="_blank">Certificate JavaScript/Front-end</a>
   + <a href="/" target="_blank">Certificate React</a>
 
@@ -41,20 +41,45 @@ I am a **Frontend Developer** with a background in creating responsive and user-
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maxim_Fil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-fil-62b622265/)
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
+<div align="left">
+<img height="32" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript"/>
+<img height="32" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/>
+<img height="32" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC" alt="Redux"/> 
+<img height="32" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="Typescript"/>
+</div>
 
+<div align="left">
+<img height="32" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" alt="html5"/>
+<img height="32" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6" alt="css3"/>
+<img height="32" src="https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699" alt="sass"/>
+<img height="32" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4" alt="tailwindcss"/>
+<img height="32" src="https://img.shields.io/badge/-mui-007FFF?style=for-the-badge&labelColor=black&logo=mui&logoColor=007FFF" alt="mui"/>  
+</div>
 
-<!--
-**FilMaxim/FilMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img height="32" src="https://img.shields.io/badge/-next.js-black?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+  <img height="32" src="https://img.shields.io/badge/-GraphQl-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098" alt="GraphQl"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="left">
+  <img height="32" src="https://img.shields.io/badge/-webpack-8DD6F9?style=for-the-badge&labelColor=black&logo=webpack&logoColor=8DD6F9" alt="webpack"/>
+  <img height="32" src="https://img.shields.io/badge/-vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF" alt="vite"/>
+  <img height="32" src="https://img.shields.io/badge/-eslint-4B32C3?style=for-the-badge&labelColor=black&logo=eslint&logoColor=4B32C3" alt="eslint"/>
+  <img height="32" src="https://img.shields.io/badge/-jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325" alt="jest"/>
+  <img height="32" src="https://img.shields.io/badge/-vitest-6E9F18?style=for-the-badge&labelColor=black&logo=vitest&logoColor=6E9F18" alt="vitest"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img height="32" src="https://img.shields.io/badge/-netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7" alt="netlify"/>
+  <img height="32" src="https://img.shields.io/badge/-vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white" alt="vercel"/>
+</div>
+
+<div align="left">
+  <img height="32" src="https://img.shields.io/badge/-node.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=#339933" alt="nodejs"/>
+  <img height="32" src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032" alt="git"/>
+  <img height="32" src="https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="github"/>
+</div>
+
