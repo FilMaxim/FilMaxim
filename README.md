@@ -32,7 +32,7 @@ I am a **Frontend Developer** with a background in creating responsive and user-
 - :seedling: Exploring Technical Content Writing.
   I have certificates for completing courses at [The Rolling Scopes School](https://rs.school/):
   + <a href="https://app.rs.school/certificate/3516jdxn/" target="_blank">Certificate JavaScript/Front-end</a>
-  + <a href="/" target="_blank">Certificate React</a>
+  + <a href="https://app.rs.school/certificate/a1cdqbkz/" target="_blank">Certificate React</a>
 
 - :zap: In my free time, I solve problems on ***CodeWars***, read technical articles, and study English.
   <p align="center"> <img src="https://www.codewars.com/users/fil_maxim/badges/large"/> </p>
